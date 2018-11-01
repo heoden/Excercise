@@ -26,6 +26,7 @@ namespace Grade
 				stat.LowestGrade = Math.Min(grade, stat.LowestGrade);
 			}
 			return stat;
+			asfasfsfsafs
 		}
 
 	}
