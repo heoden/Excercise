@@ -1,0 +1,9 @@
+D:\Uyen Project\Grade\Grade.Tests\bin\Debug\Grade.Tests.dll
+D:\Uyen Project\Grade\Grade.Tests\bin\Debug\Grade.Tests.pdb
+D:\Uyen Project\Grade\Grade.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Uyen Project\Grade\Grade.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Uyen Project\Grade\Grade.Tests\obj\Debug\Grade.Tests.csprojResolveAssemblyReference.cache
+D:\Uyen Project\Grade\Grade.Tests\obj\Debug\Grade.Tests.dll
+D:\Uyen Project\Grade\Grade.Tests\obj\Debug\Grade.Tests.pdb
+D:\Uyen Project\Grade\Grade.Tests\bin\Debug\Grade.exe
+D:\Uyen Project\Grade\Grade.Tests\bin\Debug\Grade.pdb

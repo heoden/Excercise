@@ -1,0 +1,6 @@
+D:\Uyen Project\Grade\Grade\obj\Debug\Grade.csprojResolveAssemblyReference.cache
+D:\Uyen Project\Grade\Grade\bin\Debug\Grade.pdb
+D:\Uyen Project\Grade\Grade\obj\Debug\Grade.pdb
+D:\Uyen Project\Grade\Grade\bin\Debug\Grade.exe.config
+D:\Uyen Project\Grade\Grade\bin\Debug\Grade.exe
+D:\Uyen Project\Grade\Grade\obj\Debug\Grade.exe
